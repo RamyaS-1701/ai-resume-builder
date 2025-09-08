@@ -1,8 +1,0 @@
-<template>
-  <img :src="react.svg" alt="My Photo" />
-</template>
-
-<script setup>
-import photo from './assets/myphoto.png'
-</script>
-
